@@ -3,7 +3,6 @@
 
 Este es un proyecto sencillo desarrollado en Java como práctica de programación orientada a objetos y estructuras de control. El objetivo del juego es permitir que dos jugadores compitan en una partida de Tres en Línea desde la consola.
 
-![Captura del juego](captura.png)
 
 ## Características
 
