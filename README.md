@@ -3,11 +3,7 @@
 A continuación se muestra cómo luce el juego en ejecución desde la consola:
 
 ![Captura del juego](captura.png)
-Y el README completo con esa línea integrada se vería así:
 
-markdown
-Copiar
-Editar
 # Juego del Gato (Tres en Línea)
 
 Este es un proyecto sencillo desarrollado en Java como práctica de programación orientada a objetos y estructuras de control. El objetivo del juego es permitir que dos jugadores compitan en una partida de Tres en Línea desde la consola.
